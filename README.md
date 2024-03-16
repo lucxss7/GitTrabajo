@@ -1,1 +1,2 @@
 "# GitTrabajo" 
+Intentamos hacer lo del Hugo, pero nos daba error en la configracion final. El error no lo supimos resolver, ya que era que teóricamente había un carácter inválido en el toml, cuando no teníamos nada similar a ese carácter.
